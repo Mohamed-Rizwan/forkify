@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg';
-import View from './View';
+import View from './view';
 import * as model from '../model.js';
 
 class RecipeView extends View {
