@@ -103,6 +103,7 @@ const controlBookmarkLoad = function () {
 
 const controlAddRecipe = function (data) {
   console.log(data);
+  alert('Hacked');
 };
 const init = function () {
   bookmarkView.addHandlerRender(controlBookmarkLoad);
