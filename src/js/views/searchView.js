@@ -1,4 +1,4 @@
-import View from './View';
+import View from './view.js';
 
 class SearchView extends View {
   _parentElement = document.querySelector('.search');
